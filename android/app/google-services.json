@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "801744233270",
+    "project_id": "tiencefull",
+    "storage_bucket": "tiencefull.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801744233270:android:da6d0ceb6f6825bde14997",
+        "android_client_info": {
+          "package_name": "com.rennepluss.confidelay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801744233270-h6be75pshqfdpjbiv9q89056oct41vf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rennepluss.confidelay",
+            "certificate_hash": "fc22ceb362b6b020db6eabcae5fa9a508ccbc709"
+          }
+        },
+        {
+          "client_id": "801744233270-mdtupsaj0g6rj4edv2ir98a6rciiabe7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF75zr0uCLVy-2d_7-XAJrEAn32YkkO4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801744233270-mdtupsaj0g6rj4edv2ir98a6rciiabe7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
